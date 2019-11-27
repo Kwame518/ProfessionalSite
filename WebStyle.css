@@ -34,16 +34,11 @@ nav {
 }
 
 #AboutMe {
-    background-color: lightblue;
     display: block;
     margin: 5% 0%;
     padding: 5px 30px;
     text-shadow: .5px .5px white;
 }
-
-    #AboutMe:hover {
-        background-color: white;
-    }
 
 #Contact {
     display: block;
